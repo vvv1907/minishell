@@ -1,6 +1,8 @@
 Minishell
 
-This project of School 21 should partially emulate the behavior of bash:
+(project of School 21)
+
+This project should partially emulate the behavior of bash:
 
 - have a working history of commands
 - search and launch the right executable
